@@ -6,5 +6,6 @@ int main()
 	printf("chinna\n");
 	printf("how are you\n");
 	printf("N = %d\n",N);
+	printf("nn=%d\n",N);
 	
 }

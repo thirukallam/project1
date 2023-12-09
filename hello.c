@@ -7,5 +7,7 @@ int main()
 	printf("how are you\n");
 	printf("N = %d\n",N);
 	printf("nn=%d\n",N);
+	printf("i am fine ra nanna\n");
+	printf("inka velli bajjo\n");
 	
 }

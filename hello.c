@@ -9,5 +9,6 @@ int main()
 	printf("nn=%d\n",N);
 	printf("i am fine ra nanna\n");
 	printf("inka velli bajjo\n");
+	printf("sare amma velli bajjunta\n");
 	
 }

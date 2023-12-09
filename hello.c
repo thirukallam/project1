@@ -10,5 +10,7 @@ int main()
 	printf("i am fine ra nanna\n");
 	printf("inka velli bajjo\n");
 	printf("sare amma velli bajjunta\n");
+	printf("kk ayya veallu\n");
+	
 	
 }
